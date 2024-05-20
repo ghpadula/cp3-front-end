@@ -9,16 +9,16 @@ header{
     width: 270px;
     height: 450px;
     background-color: red;
-    margin-right: 20px; 
-    margin-bottom: 30px;
+    margin-bottom: 15px;
+    
 
     }
 
 #content{
     display: inline-block;
-    padding-left: 15px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
     background-color: pink;
     width: 690px;
     height: 450px;
